@@ -1,0 +1,7 @@
+---
+name: gamemode1FFA
+version: 0.0.1
+main: MohamadRZ\gamemode1FFA\Main
+api: 5.16.1
+src-namespace-prefix: MohamadRZ\gamemode1FFA
+...
